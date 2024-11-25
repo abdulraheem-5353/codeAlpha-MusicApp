@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeAlpha-MusicApp/static/css/main.3bed0676.css",
+    "main.js": "/codeAlpha-MusicApp/static/js/main.82c475e8.js",
+    "index.html": "/codeAlpha-MusicApp/index.html",
+    "main.3bed0676.css.map": "/codeAlpha-MusicApp/static/css/main.3bed0676.css.map",
+    "main.82c475e8.js.map": "/codeAlpha-MusicApp/static/js/main.82c475e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bed0676.css",
+    "static/js/main.82c475e8.js"
+  ]
+}
